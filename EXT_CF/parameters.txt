@@ -1,0 +1,19 @@
+Temperature top = 100.0
+Temperature bottom = 150.0
+Temperature ref = 150.0
+grain size = 1mm
+
+
+3 manip en modifiant le coef de friction :
+
+- modelization 1 - "data_extension_G5_m1"
+friction coef = 0.5
+
+- modelization 2 - "data_extension_G5_m2"
+friction coef = 0.2
+
+- modelization 3 - "data_extension_G5_m3"
+friction coef = 1
+
+
+
