@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Finite Element Simulation Visualization Tools
 
 This repository contains two Python scripts for advanced visualization and analysis of finite element simulation results stored in HDF5 files. The tools are designed for side-by-side comparison and detailed plotting of simulation data, supporting both 2D and 3D mesh data.
