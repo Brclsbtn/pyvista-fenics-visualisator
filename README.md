@@ -107,7 +107,7 @@ This script is provided as-is for research and educational purposes.
 ---
 
 **Author:**
-[Quentin BETTON - Nantes Université (FRANCE)]
+Quentin BETTON - Nantes Université (FRANCE)
 **Date:** April 2025
 
 ---
